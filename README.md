@@ -10,7 +10,7 @@
 
 ## 거래량 기반 매매타점 확인 알고리즘
 - `FinanceDataReader`를 사용하여 개별 주식 가격 정보를 수집하고 , `거래량으로 투자하라` 책의 내용을 참고하여 **거래량 기반 매매타점** 판별 알고리즘을 구현
-- [코드 바로가기]((https://github.com/Clinda02/financial_data_analysis/blob/main/stock/FinanceDataReader_trading_volume.ipynb)
+- [코드 바로가기](https://github.com/Clinda02/financial_data_analysis/blob/main/stock/FinanceDataReader_trading_volume.ipynb)
 - (참고) [FinanceDataReader](https://financedata.github.io/posts/finance-data-reader-users-guide.html), [S&P500 분석]()
 
 ## 신문기사 스크랩
