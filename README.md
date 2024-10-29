@@ -18,5 +18,5 @@
 - [코드 바로가기]()
 
 ## 증권 리포트(Paxnet) 스크랩
-- [Paxnet]()의 투자 의견(매수/매도 등)을 스크랩하여 csv파일로 저장하는 코드
+- [Paxnet](https://www.paxnet.co.kr/stock/report/report?menuCode=2222)의 투자 의견(매수/매도 등)을 스크랩하여 csv파일로 저장하는 코드
 - [코드 바로가기]()
