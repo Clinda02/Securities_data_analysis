@@ -4,7 +4,7 @@
 
 ## 개별 종목 대시보드
 - `pykrx`를 사용하여 개별 주식 종목을 수집하고, 일자별 종가 변화량, 요일별 상승/하락 비율 등을 시각화한 대시보드를 생성
-- [코드 바로가기](https://github.com/Clinda02/financial_data_analysis/blob/main/stock/PyKrx_com2us_dashboard.ipynb)
+- [코드 바로가기](https://github.com/Clinda02/financial_data_analysis/blob/main/PyKrx_com2us_dashboard.ipynb))
 - (참고) [pykrx](https://github.com/sharebook-kr/pykrx)
 
 
